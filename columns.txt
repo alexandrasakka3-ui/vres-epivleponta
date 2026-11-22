@@ -1,0 +1,221 @@
+glossAPI/libduth
+title: large_string
+content: large_string
+abstract: large_string
+author: large_string
+advisor: large_string
+committee_members: large_string
+alt_title: large_string
+keywords: large_string
+classification: large_string
+type: large_string
+publication_date: large_string
+path: large_string
+institution: large_string
+record_provider: large_string
+description: large_string
+master_program: large_string
+license: large_string
+license_url: large_string
+url: large_string
+pdf_url: large_string
+First 3 rows:
+Row 1:
+title: Αντιλήψεις των νηπιαγωγών για το ρόλο των κοινωνικών αξιων στην καλλιέργεια της περιβαλλοντικής συνείδησης σε παιδιά
+abstract: Η παρούσα μεταπτυχιακή διπλωματική εργασία με τίτλο «οι αντιλήψεις των Νηπιαγωγών για το ρόλο των κοινωνικών αξιών στην 
+author: Σιριβιανού, Νίκη
+advisor: Παπαδημητρίου, Ευριπίδης
+committee_members: Δε διατίθεται
+alt_title: None
+keywords: Περιβαλλοντική πολιτική ; Κοινωνικές αξίες ; Προσχολική εκπαίδευση ; Περιβαλλοντική συνείδηση
+classification: None
+type: Μεταπτυχιακή εργασία
+publication_date: 2015-05-01
+path: ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΕΠΙΣΤΗΜΗΣ > ΣΧΟΛΗ ΚΟΙΝΩΝΙΚΩΝ, ΠΟΛΙΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΕΠΙΣΤΗΜΩΝ > ΜΕΤΑΠΤΥΧΙΑΚ
+institution: Τμήμα Κοινωνικής Διοίκησης και Πολιτικής Επιστήμης
+record_provider: Δημοκρίτειο Πανεπιστήμιο Θράκης. Σχολή Κοινωνικών, Πολιτικών και Οικονομικών Επιστημών. Τμήμα Κοινωνικής Διοίκησης και Π
+description: None
+master_program: None
+license: None
+license_url: None
+url: https://repo.lib.duth.gr/jspui/handle/123456789/10252
+pdf_url: https://repo.lib.duth.gr/jspui/bitstream/123456789/10252/1/%ce%9c%ce%b5%cf%84%ce%b1%cf%80%cf%84%cf%85%cf%87%ce%b9%ce%b1%
+Row 2:
+title: Η Εποπτεία και ο έλεγχος των αγροτικών συνεταιρισμών
+abstract: Οι σύγχρονοι αγροτικοί συνεταιρισμοί, οι οποίοι αποτελούν μια σημαντική μερίδα του ελληνικού συνεταιριστικού κινήματος, 
+author: Δουβίτσα, Ιφιγένεια
+advisor: Κασσαβέτης, Δημοσθένης
+committee_members: None
+alt_title: None
+keywords: Εποπτεία ; Έλεγχος ; Αγροτικοί συνεταιρισμοί ; Ελλάδα
+classification: None
+type: Διδακτορική διατριβή
+publication_date: 2016-03-27
+path: ΝΟΜΙΚΗ ΣΧΟΛΗ > ΔΙΔΑΚΤΟΡΙΚΕΣ ΔΙΑΤΡΙΒΕΣ > ΓΚΡΙΖΑ ΒΙΒΛΙΟΓΡΑΦΙΑ > ΤΜΗΜΑ ΝΟΜΙΚΗΣ
+institution: Τμήμα Νομικής / Τομέας Δημοσίου Δικαίου και Πολιτικής Επιστήμης
+record_provider: Δημοκρίτειο Πανεπιστήμιο Θράκης. Σχολή Νομικής. Τμήμα Νομικής
+description: None
+master_program: None
+license: None
+license_url: None
+url: https://repo.lib.duth.gr/jspui/handle/123456789/10253
+pdf_url: https://repo.lib.duth.gr/jspui/bitstream/123456789/10253/1/%ce%94%ce%b9%ce%b4%ce%b1%ce%ba%cf%84%ce%bf%cf%81%ce%b9%ce%ba%
+Row 3:
+title: Η εικόνα του βουγλαρικού σχίσματος μέσα από τις ελληνόφωνες και βουλγαρόφωνες πηγές της περιόδου 1870-1872
+abstract: Με οδηγό τα σημαντικότερα ιστορικά πολιτικά και διπλωματικά γεγονότα σκοπός αυτής της εργασίας είναι να καταγράψει την π
+author: Παπαγιάννη, Ειρήνη
+advisor: None
+committee_members: None
+alt_title: None
+keywords: Βουλγαρία ; Σχίσμα ; Ελληνοβουγλαρικές σχέσεις ; Εκκλησία της Βουλγαρίας
+classification: None
+type: Μεταπτυχιακή εργασία
+publication_date: 2015-03-31
+path: ΤΜΗΜΑ ΝΟΜΙΚΗΣ > ΝΟΜΙΚΗ ΣΧΟΛΗ > ΜΕΤΑΠΤΥΧΙΑΚΕΣ ΕΡΓΑΣΙΕΣ ΕΙΔΙΚΕΥΣΗΣ > ΓΚΡΙΖΑ ΒΙΒΛΙΟΓΡΑΦΙΑ > Π.Μ.Σ. ΣΠΟΥΔΕΣ ΝΟΤΙΟΑΝΑΤΟΛΙΚΗΣ 
+institution: Τμήμα Νομικής / Τομέας Διεθνών Σπουδών
+record_provider: Δημοκρίτειο Πανεπιστήμιο Θράκης. Σχολή Νομικής. Τμήμα Νομικής
+description: None
+master_program: None
+license: None
+license_url: None
+url: https://repo.lib.duth.gr/jspui/handle/123456789/10254
+pdf_url: https://repo.lib.duth.gr/jspui/bitstream/123456789/10254/1/%ce%a0%ce%b1%cf%80%ce%b1%ce%b3%ce%b9%ce%ac%ce%bd%ce%bd%ce%b7-
+
+glossAPI/elocus
+title: large_string
+content: large_string
+abstract: large_string
+author: large_string
+advisor: large_string
+committee_members: large_string
+subjects: large_string
+alt_title: large_string
+date: large_string
+collection: large_string
+physical_description: large_string
+url: large_string
+pdf_url: large_string
+First 3 rows:
+Row 1:
+title: Βαθυμετρική μελέτη της σύνθεσης των μακροπανιδικών κοινοτήτων και των δεικτών οικολογικής κατάστασης στον Κόλπο Ηρακλείο
+abstract: Τα βενθικά θαλάσσια οικοσυστήματα επηρεάζονται έντονα από το βάθος, τον
+υδροδυναμισμό και τα φυσικοχημικά χαρακτηριστικά
+author: Γαρά, Ευαγγελία Ι.
+advisor: Καρακάσης, Ιωάννης
+committee_members: Αρβανιτίδης, Χρήστος; Smith, Christopher
+subjects: 
+alt_title: Bathymetric study of the composition of macrofaunal communities and ecological status indices in the Gulf of Heraklion
+date: 2026-03-30
+collection: Σχολή/Τμήμα--Σχολή Θετικών και Τεχνολογικών Επιστημών--Τμήμα Βιολογίας--Μεταπτυχιακές εργασίες ειδίκευσης | Τύπος Εργασί
+physical_description: 49 σ. :  χάρτ., πίν., έγχ. εικ. ;  30 εκ.
+url: https://elocus.lib.uoc.gr/dlib/8/8/7/metadata-dlib-1772878887-83781-18163.tkl
+pdf_url: https://elocus.lib.uoc.gr//dlib/8/8/7/attached-metadata-dlib-1772878887-83781-18163/EYAGGELIA_GARA_2026_METAPTYXIAKH_ERG
+Row 2:
+title: Μελέτη της βενθικής κοινότητας σε μία περιοχή μυδοκαλλιέργειας στον Θερμαϊκό κόλπο
+abstract: Ο κλάδος των υδατοκαλλιεργειών συμβάλλει σημαντικά στη κάλυψη των συνεχώς αυξανόμενων διατροφικών αναγκών του παγκόσμιου
+author: Τάσση, Ιωάννα-Ηλιάνα
+advisor: Καρακάσης, Ιωάννης
+committee_members: Κουμουνδούρος, Γεώργιος; Γιαννακούρου, Αντωνία
+subjects: Benthic Macrofauna; Ecological Indicators; Mussel Farms; Mytilus galloprovincialis; Mytilus galloprovincialis; Βενθική Μ
+alt_title: Study of the benthic community in a mussel farming area in the thermaikos gulf
+date: 2026-03-30
+collection: Σχολή/Τμήμα--Σχολή Θετικών και Τεχνολογικών Επιστημών--Τμήμα Βιολογίας--Μεταπτυχιακές εργασίες ειδίκευσης | Τύπος Εργασί
+physical_description: 47 σ. :  πίν., σχήμ., εικ. (μερ. εγχρ.) ;  30 εκ.
+url: https://elocus.lib.uoc.gr/dlib/e/f/4/metadata-dlib-1773223703-356861-27149.tkl
+pdf_url: https://elocus.lib.uoc.gr//dlib/e/f/4/attached-metadata-dlib-1773223703-356861-27149/Ivanna_Hliana_Tassh__1168__Metaptyx
+Row 3:
+title: Σύνθεση & αφθονία μειοβενθικών κοινοτήτων που σχετίζονται με κοραλλιογενείς υφάλους
+abstract: Στο πλαίσιο του έργου EFFECTIVE του Horizon Europe διερευνήθηκε η δομή και η ποικιλομορφία των μειοβενθικών κοινοτήτων σ
+author: Μοδέ, Νικολίτσα Μ.
+advisor: Λαμπαδαρίου, Νικόλαος
+committee_members: Τσερπές, Γεώργιος; Τσελεπίδης, Αναστάσιος
+subjects: Benthos; Bioindicators; Bένθος; Bιοδείκτες; Coral reefs; Marine parks; Meiofauna; Mειοπανίδα; Protected areas; Προστατευ
+alt_title: Composition and abundance of meiobenthic communities associated with coral reefs
+date: 2026-03-30
+collection: Σχολή/Τμήμα--Σχολή Θετικών και Τεχνολογικών Επιστημών--Τμήμα Βιολογίας--Μεταπτυχιακές εργασίες ειδίκευσης | Τύπος Εργασί
+physical_description: 83 σ. :  πίν., σχήμ., εικ. ;  30 εκ.
+url: https://elocus.lib.uoc.gr/dlib/0/f/b/metadata-dlib-1772117998-624220-2157.tkl
+pdf_url: https://elocus.lib.uoc.gr//dlib/0/f/b/attached-metadata-dlib-1772117998-624220-2157/Synuesh___afuonia__meiobenuikvn__koi
+
+glossAPI/psepheda
+title: large_string
+content: large_string
+abstract: large_string
+description: large_string
+description_full: large_string
+information: large_string
+subjects: large_string
+creator: large_string
+contributors: large_string
+supervisor: large_string
+issue_date: large_string
+type: large_string
+publisher: large_string
+department: large_string
+collection_name: large_string
+title_alt: large_string
+rights: large_string
+relations: large_string
+handle_url: large_string
+pdf_url: large_string
+First 3 rows:
+Row 1:
+title: Η εισαγωγή της Πληροφορικής στο σχολείο: μια κοινωνιολογική προσέγγιση
+abstract: Βασικός σκοπός της εργασίας είναι η αναζήτηση της θέσης της Πληροφορικής στο σύγχρονο κόσµο, του οποίου είναι δηµιούργηµ
+description: Μπρίκα Ελένη
+description_full: Περιλαμβάνει βιβλιογραφικές αναφορές (σ.366-384). ||| Διατριβή (Διδακτορική)--Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη, 2002
+information: Περιλαμβάνει βιβλιογραφικές αναφορές (σ.366-384). ; Διατριβή (Διδακτορική)--Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη, 2002. 
+subjects: Παγκοσμιοποίηση ; Επικοινωνία ; Εκπαιδευτικό σύστημα ; Λειτουργικός αναλφαβητισμός ; Ψηφιακός αναλφαβητισμός ; Mondialis
+creator: Μπρίκα, Ελένη
+contributors: Κωνσταντοπούλου, Χ. ; Μακρίδου-Μπούσιου, Δέσποινα ; Σατρατζέμη, Μαρία Αικατερίνη ; Πανεπιστήμιο Μακεδονίας Οικονομικών κ
+supervisor: Κωνσταντοπούλου, Χ.
+issue_date: 2002
+type: Electronic Thesis or Dissertation ; Text
+publisher: Πανεπιστήμιο Μακεδονίας Οικονομικών και Κοινωνικών Επιστημών
+department: Πανεπιστήμιο Μακεδονίας Οικονομικών και Κοινωνικών Επιστημών. Τμήμα Εφαρμοσμένης Πληροφορικής. (ΕΠ)
+collection_name: Τμήμα Εφαρμοσμένης Πληροφορικής  (Δ)
+title_alt: L'introduction de l'informatique a l'ecole: une approche sociologique
+rights: None
+relations: None
+handle_url: http://dspace.lib.uom.gr/handle/2159/168
+pdf_url: https://dspace.lib.uom.gr/bitstream/2159/168/7/brika.pdf
+Row 2:
+title: Παράλληλοι μιμητικοί αλγόριθμοι: παράλληλοι εξελικτικοί αλγόριθμοι και άλλες τεχνικές
+abstract: Αντικείμενο αυτής της εργασίας είναι η μελέτη και η παραλληλοποίηση εξελικτικών και άλλων τεχνικών κατά την διερεύνηση μ
+description: του Ιάσονος Γ. Διγαλάκη
+description_full: Περιλαμβάνει βιβλιογραφικές αναφορές (σ.367-383). ||| Διατριβή (Διδακτορική)--Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη, 2005
+information: Περιλαμβάνει βιβλιογραφικές αναφορές (σ.367-383). ; Διατριβή (Διδακτορική)--Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη, 2005. 
+subjects: Παράλληλοι μιμητικοί αλγόριθμοι ; Εξελικτικοί αλγόριθμοι ; Προσομοιούμενη ανόπτηση ; Καθοδηγούμενη τοπική αναζήτηση ; Πα
+creator: Διγαλάκης, Ιάσων Γ.
+contributors: Μαργαρίτης, Κ. ; Βλαχάβας, Ι. ; Ρουμελιώτης, Εμμανουήλ ; Κάτος, Αναστάσιος ; Παπαρρίζος, Κωνσταντίνος ; Παπαναστασίου, Δ
+supervisor: Μαργαρίτης, Κ.
+issue_date: 2005-09
+type: Electronic Thesis or Dissertation ; Text
+publisher: Πανεπιστήμιο Μακεδονίας Οικονομικών και Κοινωνικών Επιστημών
+department: Πανεπιστήμιο Μακεδονίας Οικονομικών και Κοινωνικών Επιστημών. Τμήμα Εφαρμοσμένης Πληροφορικής. (ΕΠ)
+collection_name: Τμήμα Εφαρμοσμένης Πληροφορικής  (Δ)
+title_alt: Parallel memetic algorithms: parallel evolutionary algorithms and other techniques
+rights: None
+relations: Συμπεριλαμβάνεται και λογισμικό ως μέρος της διδακτορικής διατριβής (βλέπε σχετική εγγραφή). ; http://dspace.lib.uom.gr/
+handle_url: http://dspace.lib.uom.gr/handle/2159/169
+pdf_url: https://dspace.lib.uom.gr/bitstream/2159/169/8/Digalakis.pdf
+Row 3:
+title: Τα οικονομικά της άμυνας Ελλάδας-Τουρκίας και οι μεταξύ των κρατών σχέσεις: μια θεωρητική προσέγγιση στον πολιτικό ρεαλι
+abstract: Κύριος και βασικός σκοπός της διατριβής είναι η εξέταση τριών υποθέσεων εργασίας που πηγάζουν από τα βασικά αξιώματα της
+description: The main and basic purpose of the dissertation is to examine three hypotheses, which originate from the basic axioms of 
+description_full: Περιλαμβάνει βιβλιογραφικές αναφορές (σ.392-434). ||| Διατριβή (Διδακτορική)--Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη, 2005
+information: Περιλαμβάνει βιβλιογραφικές αναφορές (σ.392-434). ; Διατριβή (Διδακτορική)--Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη, 2005. 
+subjects: Θεωρία διεθνών σχέσεων ; Ρεαλισμός ; Στρατηγική ; Οικονομικά της άμυνας ; Ελληνοτουρκικές σχέσεις ; Κούρσα εξοπλισμών ; 
+creator: Ευαγόρου, Ευαγόρας Λ.
+contributors: Κουσκουβέλης, Ηλίας ; Θερμός, Ηλίας ; Απέργης, Νικόλας ; Ήφαιστος, Παναγιώτης ; Χατζηκωνσταντίνου, Γιώργος ; Παπασωτηρίο
+supervisor: Κουσκουβέλης, Ηλίας
+issue_date: 2005-10
+type: Electronic Thesis or Dissertation ; Text
+publisher: Πανεπιστήμιο Μακεδονίας Οικονομικών και Κοινωνικών Επιστημών
+department: Πανεπιστήμιο Μακεδονίας Οικονομικών και Κοινωνικών Επιστημών. Τμήμα Διεθνών Ευρωπαϊκών Οικονομικών και Πολιτικών Σπουδών
+collection_name: Τμήμα Διεθνών και Ευρωπαϊκών Σπουδών  (Δ)
+title_alt: Defence economics of Greece and Turkey and the relations between the two states: a theoretical approach in political rea
+rights: None
+relations: None
+handle_url: http://dspace.lib.uom.gr/handle/2159/170
+pdf_url: https://dspace.lib.uom.gr/bitstream/2159/170/8/Evagorou.pdf

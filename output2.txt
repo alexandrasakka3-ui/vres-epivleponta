@@ -1,0 +1,114 @@
+
+================================================================================
+Dataset: glossAPI/libduth
+Parquet file: libduth.parquet
+httpx2.HTTPStatusError: Client error '401 Unauthorized' for url 'https://huggingface.co/datasets/glossAPI/libduth/resolve/main/libduth.parquet'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/workspaces/vres-epivleponta/data/explore2.py", line 41, in main
+    inspect_dataset(dataset_name)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/workspaces/vres-epivleponta/data/explore2.py", line 27, in inspect_dataset
+    local_path = hf_hub_download(
+        repo_id=dataset_name,
+        filename=filename,
+        repo_type="dataset",
+    )
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/utils/_validators.py", line 89, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/utils/_http.py", line 276, in _inner
+    return fn(*args, **kwargs)
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1047, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+        # Destination
+    ...<15 lines>...
+        dry_run=dry_run,
+    )
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1194, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1954, in _raise_on_head_call_error
+    raise head_call_error
+huggingface_hub.errors.GatedRepoError: 401 Client Error. (Request ID: Root=1-6b02d7d4-32ba56f567ba407b207ba177;ce0111bc-feca-469e-90c7-31dd5f115aef)
+
+Cannot access gated repo for url https://huggingface.co/datasets/glossAPI/libduth/resolve/main/libduth.parquet.
+Access to dataset glossAPI/libduth is restricted. You must have access to it and be authenticated to access it. Please log in.
+
+================================================================================
+Dataset: glossAPI/elocus
+Parquet file: elocus.parquet
+httpx2.HTTPStatusError: Client error '401 Unauthorized' for url 'https://huggingface.co/datasets/glossAPI/elocus/resolve/main/elocus.parquet'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/workspaces/vres-epivleponta/data/explore2.py", line 41, in main
+    inspect_dataset(dataset_name)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/workspaces/vres-epivleponta/data/explore2.py", line 27, in inspect_dataset
+    local_path = hf_hub_download(
+        repo_id=dataset_name,
+        filename=filename,
+        repo_type="dataset",
+    )
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/utils/_validators.py", line 89, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/utils/_http.py", line 276, in _inner
+    return fn(*args, **kwargs)
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1047, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+        # Destination
+    ...<15 lines>...
+        dry_run=dry_run,
+    )
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1194, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1954, in _raise_on_head_call_error
+    raise head_call_error
+huggingface_hub.errors.GatedRepoError: 401 Client Error. (Request ID: Root=1-6b02d7d4-5f554d095588fa8c600d3d86;3c522ece-6cd3-47fb-954a-bb738158b59a)
+
+Cannot access gated repo for url https://huggingface.co/datasets/glossAPI/elocus/resolve/main/elocus.parquet.
+Access to dataset glossAPI/elocus is restricted. You must have access to it and be authenticated to access it. Please log in.
+
+================================================================================
+Dataset: glossAPI/psepheda
+Parquet file: psepheda.parquet
+httpx2.HTTPStatusError: Client error '401 Unauthorized' for url 'https://huggingface.co/datasets/glossAPI/psepheda/resolve/main/psepheda.parquet'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/workspaces/vres-epivleponta/data/explore2.py", line 41, in main
+    inspect_dataset(dataset_name)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/workspaces/vres-epivleponta/data/explore2.py", line 27, in inspect_dataset
+    local_path = hf_hub_download(
+        repo_id=dataset_name,
+        filename=filename,
+        repo_type="dataset",
+    )
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/utils/_validators.py", line 89, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/utils/_http.py", line 276, in _inner
+    return fn(*args, **kwargs)
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1047, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+        # Destination
+    ...<15 lines>...
+        dry_run=dry_run,
+    )
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1194, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.14.2/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1954, in _raise_on_head_call_error
+    raise head_call_error
+huggingface_hub.errors.GatedRepoError: 401 Client Error. (Request ID: Root=1-6b02d7d4-2ee5709c6c5a1f304ecbb064;ac6e1082-9c0f-4569-a961-fc5d5b4d866f)
+
+Cannot access gated repo for url https://huggingface.co/datasets/glossAPI/psepheda/resolve/main/psepheda.parquet.
+Access to dataset glossAPI/psepheda is restricted. You must have access to it and be authenticated to access it. Please log in.

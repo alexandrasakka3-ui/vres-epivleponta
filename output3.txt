@@ -1,0 +1,18 @@
+
+================================================================================
+Dataset: glossAPI/libduth
+Parquet file: libduth.parquet
+Rows: 9262
+Columns: ['title', 'content', 'abstract', 'author', 'advisor', 'committee_members', 'alt_title', 'keywords', 'classification', 'type', 'publication_date', 'path', 'institution', 'record_provider', 'description', 'master_program', 'license', 'license_url', 'url', 'pdf_url']
+
+================================================================================
+Dataset: glossAPI/elocus
+Parquet file: elocus.parquet
+Rows: 7731
+Columns: ['title', 'content', 'abstract', 'author', 'advisor', 'committee_members', 'subjects', 'alt_title', 'date', 'collection', 'physical_description', 'url', 'pdf_url']
+
+================================================================================
+Dataset: glossAPI/psepheda
+Parquet file: psepheda.parquet
+Rows: 14303
+Columns: ['title', 'content', 'abstract', 'description', 'description_full', 'information', 'subjects', 'creator', 'contributors', 'supervisor', 'issue_date', 'type', 'publisher', 'department', 'collection_name', 'title_alt', 'rights', 'relations', 'handle_url', 'pdf_url']

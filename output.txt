@@ -1,0 +1,15 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Some datasets could not be explored. Request access on the Hugging Face dataset pages, then authenticate before rerunning.
+
+================================================================================
+Dataset: glossAPI/libduth
+Could not load dataset: Dataset 'glossAPI/libduth' is a gated dataset on the Hub. You must be authenticated to access it.
+
+================================================================================
+Dataset: glossAPI/elocus
+Could not load dataset: Dataset 'glossAPI/elocus' is a gated dataset on the Hub. You must be authenticated to access it.
+
+================================================================================
+Dataset: glossAPI/psepheda
+Could not load dataset: Dataset 'glossAPI/psepheda' is a gated dataset on the Hub. You must be authenticated to access it.
