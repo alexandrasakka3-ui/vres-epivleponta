@@ -1,4 +1,7 @@
 datasets>=2.18.0
 huggingface_hub
+sentence-transformers
+numpy
+pandas
 pyarrow
 duckdb>=1.1.0
