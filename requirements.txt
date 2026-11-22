@@ -5,3 +5,4 @@ numpy
 pandas
 pyarrow
 duckdb>=1.1.0
+rapidfuzz
